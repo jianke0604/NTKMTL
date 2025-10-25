@@ -1,7 +1,7 @@
 # [NeurIPS’25] NTKMTL
 
 The official implementation of our NeurIPS 2025 paper:  
-- [NTKMTL: Mitigating Task Imbalance in Multi-Task Learning from Neural Tangent Kernel Perspective](#)  
+- [NTKMTL: Mitigating Task Imbalance in Multi-Task Learning from Neural Tangent Kernel Perspective](https://arxiv.org/abs/2510.18258)  
 
 ## Setup Environment
 First, use miniconda to create a new environment:
